@@ -85,8 +85,6 @@ GEM
     nokogiri (1.7.0.1-x86-mingw32)
       mini_portile2 (~> 2.1.0)
     puma (3.6.2)
-    pygments.rb (1.1.1)
-      multi_json (>= 1.0.0)
     rack (2.0.1)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -161,7 +159,6 @@ DEPENDENCIES
   jbuilder (~> 2.5)
   jquery-rails
   puma (~> 3.0)
-  pygments.rb
   rails (~> 5.0.1)
   redcarpet
   sass-rails (~> 5.0)
